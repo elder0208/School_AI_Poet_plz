@@ -1,7 +1,6 @@
-#on cmd section, presetting
+#presetting
 #pip install python-dotenv
-#pip install langchain-openai
-#pip install streamlit
+pip install langchain-openai
 
 #from dotenv import load_dotenv
 #load_dotenv()
