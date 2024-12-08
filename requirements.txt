@@ -1,5 +1,3 @@
-for using this
-
 python-dotenv
 openai
 langchain
