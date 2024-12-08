@@ -1,0 +1,6 @@
+for using this
+
+python-dotenv
+openai
+langchain
+langchain-openai
